@@ -10,8 +10,8 @@ var three = 1;
 var four = 55;
 var five = 9;
 
-var somma = one + two + three + four + five;
-console.log('La somma dei 5 numeri è: ' +somma);
+var sum = one + two + three + four + five;
+console.log('La somma dei 5 numeri è: ' + sum);
 
-var media = somma/5;
-console.log('La media è: ' +media);
+var average = sum/5;
+console.log('La media è: ' +average);
